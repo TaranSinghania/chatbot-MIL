@@ -4,6 +4,9 @@
 ### Project description
 A generalised chatbot which can intelligently respond to conversation using named entity recognition (NER), sentiment analysis and an implementation of a decision system for follow up mechanism using a Seq2seq model which uses Bidirectional RNNs and Attention models.
 
+### Files
+model.py is the main file and it contains the model as well as the retrieval based system
+
 ### Encoder-Decoder Model
 <!--Add the image from the project report folder-->
 
